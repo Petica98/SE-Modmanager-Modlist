@@ -1,9 +1,12 @@
-{
-  "modList": [
-    {
-      "Owner": "ted505",
-      "Repo": "solar-expanse-teddit",
-      "Teddit": false
-    }
-  ]
-}
+[
+  {
+    "Owner": "ted505",
+    "Repo": "solar-expanse-teddit",
+    "Teddit": false
+  },
+  {
+    "Owner": "Petica98",
+    "Repo": "SE-More-Reactors",
+    "Teddit": true
+  }
+]
